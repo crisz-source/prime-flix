@@ -1,0 +1,39 @@
+.minha-lista-filmes {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.minha-lista-filmes h1 {
+  margin-bottom: 14px;
+}
+
+.minha-lista-filmes span {
+  font-size: 18px;
+}
+
+.minha-lista-filmes ul {
+  max-width: 720px;
+  width: 100%;
+}
+
+.minha-lista-filmes ul li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.minha-lista-filmes div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.minha-lista-filmes div a {
+  text-decoration: none;
+  color: #116FEB;
+  margin-right: 14px;
+}
